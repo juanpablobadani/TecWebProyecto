@@ -1,0 +1,34 @@
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\HotelUnitTests.deps.json
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\HotelUnitTests.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\HotelUnitTests.runtimeconfig.dev.json
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\HotelUnitTests.dll
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\HotelUnitTests.pdb
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.csproj.CopyComplete
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.dll
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.pdb
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\HotelUnitTests.deps.json
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\HotelUnitTests.runtimeconfig.json
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\HotelUnitTests.runtimeconfig.dev.json
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\HotelUnitTests.dll
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\HotelUnitTests.pdb
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.AssemblyInfo.cs
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.csproj.CopyComplete
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.dll
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\HotelUnitTests\obj\Debug\netcoreapp2.2\HotelUnitTests.pdb

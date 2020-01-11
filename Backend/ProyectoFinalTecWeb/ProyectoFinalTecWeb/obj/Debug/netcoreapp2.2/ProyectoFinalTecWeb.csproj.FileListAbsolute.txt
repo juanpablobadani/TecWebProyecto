@@ -1,0 +1,90 @@
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.deps.json
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.runtimeconfig.json
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.runtimeconfig.dev.json
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.csprojAssemblyReference.cache
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorAssemblyInfo.cache
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorAssemblyInfo.cs
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.AssemblyInfoInputs.cache
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.AssemblyInfo.cs
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorTargetAssemblyInfo.cache
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.deps.json
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.runtimeconfig.json
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.runtimeconfig.dev.json
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.csprojAssemblyReference.cache
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorAssemblyInfo.cache
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorAssemblyInfo.cs
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.AssemblyInfoInputs.cache
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.AssemblyInfo.cs
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorTargetAssemblyInfo.cache
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+C:\Users\DELL09\source\repos\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.deps.json
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.runtimeconfig.dev.json
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorAssemblyInfo.cache
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorAssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorTargetAssemblyInfo.cache
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+C:\Users\victo\OneDrive\Escritorio\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.deps.json
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.runtimeconfig.json
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.runtimeconfig.dev.json
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.csprojAssemblyReference.cache
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorAssemblyInfo.cache
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorAssemblyInfo.cs
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.AssemblyInfoInputs.cache
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.AssemblyInfo.cs
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorTargetAssemblyInfo.cache
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+C:\Users\DELL09\Desktop\ptm\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.deps.json
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.runtimeconfig.json
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.runtimeconfig.dev.json
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorAssemblyInfo.cache
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorAssemblyInfo.cs
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.AssemblyInfo.cs
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorTargetAssemblyInfo.cache
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+D:\UNIVERSIDAD\TECNOLOGIAS WEB\victor\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.deps.json
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.runtimeconfig.json
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.runtimeconfig.dev.json
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\bin\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.csprojAssemblyReference.cache
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.csproj.CoreCompileInputs.cache
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorAssemblyInfo.cache
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorAssemblyInfo.cs
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.AssemblyInfoInputs.cache
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.AssemblyInfo.cs
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.RazorTargetAssemblyInfo.cache
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.dll
+D:\TecnoWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\ProyectoFinalTecWeb\obj\Debug\netcoreapp2.2\ProyectoFinalTecWeb.pdb

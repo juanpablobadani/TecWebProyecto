@@ -1,0 +1,16 @@
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\HotelProyectoFinal1.0.deps.json
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\HotelProyectoFinal1.0.runtimeconfig.json
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\HotelProyectoFinal1.0.runtimeconfig.dev.json
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\HotelProyectoFinal1.0.dll
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\HotelProyectoFinal1.0.csprojAssemblyReference.cache
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\HotelProyectoFinal1.0.RazorAssemblyInfo.cache
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\HotelProyectoFinal1.0.RazorAssemblyInfo.cs
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\HotelProyectoFinal1.0.AssemblyInfoInputs.cache
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\HotelProyectoFinal1.0.AssemblyInfo.cs
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\HotelProyectoFinal1.0.RazorTargetAssemblyInfo.cache
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\bin\Debug\netcoreapp2.2\HotelProyectoFinal1.0.pdb
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\HotelProyectoFinal1.0.dll
+C:\Users\DELL09\source\repos\HotelProyectoFinal1.0\HotelProyectoFinal1.0\obj\Debug\netcoreapp2.2\HotelProyectoFinal1.0.pdb

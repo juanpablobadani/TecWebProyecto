@@ -1,0 +1,42 @@
+<!-- <div class="formStyle">
+  <form class="form" (ngSubmit)="onSubmit()">
+    <div class="form-row" >
+      <div class="col">
+        <input  type="text" name="name" class="form-control" placeholder="name ..." [(ngModel)]="name">
+      </div>
+      <div class="col">
+        <input name="description" type="text" class="form-control" placeholder="description" [(ngModel)]="description">
+      </div>
+      <div class="col">
+        <input name="price" type="number" class="form-control" placeholder="price" [(ngModel)]="price">
+      </div>
+    </div>
+
+    <input type="submit" value="Submit" class="btn btn-primary" >
+</form>
+<button routerLink="/rooms">volver</button>
+</div> -->
+
+<div class="fondo">
+  <div class="title"><h1>New Room</h1></div>
+  <div class="container">
+    <div class="left"></div>
+    <div class="right">
+      <div class="formBox">
+        <form form class="form" (ngSubmit)="onSubmit()">
+          <p>Number room</p>
+          <input type="text" name="name" class="form-control" placeholder="name ..." [(ngModel)]="name">
+          <p>Description room</p>
+          <input  name="description" type="text" class="form-control" placeholder="description" [(ngModel)]="description">
+          <p>Price room</p>
+          <input  name="price" type="number" class="form-control" placeholder="price" [(ngModel)]="price">
+
+          <br>
+        <br>
+          <input type="submit" name="" value="Save "class="btn btn-primary">
+
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

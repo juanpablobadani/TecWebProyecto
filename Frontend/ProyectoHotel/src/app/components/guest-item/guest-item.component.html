@@ -1,0 +1,32 @@
+<div [ngClass]="setClasses()">
+    <div class="container">
+        <div class="row">
+            <div class="col-1" *ngIf="guest.gender == 'm' || guest.gender == 'M'">
+                <img class="tam" src="../../../assets/men.jpg">
+                </div>
+                <div class="col-1" *ngIf="guest.gender == 'f' || guest.gender == 'F'">
+                    <img class="tam" src="../../../assets/woman.png">
+                </div> 
+            <div class="col-md-9">
+                <p>
+                    <label for="{{guest}}">
+                         Name : {{ guest.name }} | 
+                         Last Name : {{ guest.lastName }} | 
+                         Ci : {{ guest.ci }} | 
+                         Room Id : {{ guest.roomId }} | 
+                         Gender : {{ guest.gender }} 
+                        
+                    </label>
+                    
+                </p>
+            </div>
+
+            <div class="col-md-2 justify-content-end">
+                    <button (click)="onDelete(guest)" class="button" style="vertical-align:middle" ><span>Delete</span></button>
+                    <button (click)="onEdit(guest)" class="button" style="vertical-align:middle" ><span>Edit</span></button>
+            </div>
+        </div>
+            
+    </div>
+    
+</div> 

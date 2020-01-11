@@ -1,0 +1,6 @@
+<!-- <app-add-guest (addGuest)="addGuest($event)"></app-add-guest> -->
+<app-guest-item 
+*ngFor="let guest of guests" 
+[guest]="guest"
+(deleteGuest)="deleteGuest($event)">
+</app-guest-item>

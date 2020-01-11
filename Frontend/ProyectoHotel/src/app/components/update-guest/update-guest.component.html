@@ -1,0 +1,48 @@
+<!-- <form class="form" (ngSubmit)="onSubmit(guest)">
+    <div class="form-row" >
+      <div class="col">
+        <input  type="text" name="name" class="form-control" placeholder="name ..." [(ngModel)]="guest.name">
+      </div>
+      <div class="col">
+        <input name="lastName" type="text" class="form-control" placeholder="Last name" [(ngModel)]="guest.lastName">
+      </div>
+    </div>
+    <div class="form-row">
+        <div class="col">
+            <input name="ci" type="number" class="form-control" placeholder="Ci" [(ngModel)]="guest.ci">
+          </div>
+          <div class="col">
+            <input name="roomId" type="number" class="form-control" placeholder="roomId" [(ngModel)]="guest.roomId">
+          </div>
+          <div class="col">
+            <input name="gender" type="text" class="form-control" placeholder="gender" [(ngModel)]="guest.gender">
+          </div>  
+    </div>
+    <input type="submit" value="Submit" class="btn btn-primary" >
+</form> -->
+
+
+<div class="fondo">
+  <div class="title"><h1>Edit Guest</h1></div>
+  <div class="container">
+    <div class="left"></div>
+    <div class="right">
+      <div class="formBox">
+        <form class="form" (ngSubmit)="onSubmit(guest)">
+         <p>Name</p>
+          <input type="text" name="name" class="form-control" placeholder="name ..." [(ngModel)]="guest.name">
+          <p>LastName</p>
+          <input name="lastName" type="text" class="form-control" placeholder="Last name" [(ngModel)]="guest.lastName">
+          <p>ci</p>
+          <input name="ci" type="number" class="form-control" placeholder="Ci" [(ngModel)]="guest.ci">
+          <p>Room ID</p>
+          <input name="roomId" type="number" class="form-control" placeholder="roomId" [(ngModel)]="guest.roomId">
+          <p>Gender</p>
+          <input name="gender" type="text" class="form-control" placeholder="Gender" [(ngModel)]="guest.gender">
+          <input type="submit" name="" value="Save "class="btn btn-primary">
+
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,42 @@
+<!-- <form class="form" (ngSubmit)="onSubmit()">
+    <div class="form-row" >
+      <div class="col">
+        <input  type="text" name="name" class="form-control" placeholder="name ..." [(ngModel)]="name">
+      </div>
+      <div class="col">
+        <input name="lastName" type="text" class="form-control" placeholder="Last name" [(ngModel)]="lastName">
+      </div>
+    </div>
+    <div class="form-row">
+        <div class="col">
+            <input name="ci" type="number" class="form-control" placeholder="Ci" [(ngModel)]="ci">
+          </div>
+          <div class="col">
+            <input name="gender" type="text" class="form-control" placeholder="Gender" [(ngModel)]="gender">
+          </div>
+    </div>
+    <input type="submit" value="Submit" class="btn btn-primary" >
+</form> -->
+
+<div class="fondo">
+  <div class="title"><h1>New Guest</h1></div>
+  <div class="container">
+    <div class="left"></div>
+    <div class="right">
+      <div class="formBox">
+        <form form class="form" (ngSubmit)="onSubmit()">
+          <p>Name</p>
+          <input type="text" name="name" class="form-control" placeholder="name ..." [(ngModel)]="name">
+          <p>LastName</p>
+          <input name="lastName" type="text" class="form-control" placeholder="Last name" [(ngModel)]="lastName">
+          <p>ci</p>
+          <input name="ci" type="number" class="form-control" placeholder="Ci" [(ngModel)]="ci">
+          <p>Gender</p>
+          <input name="gender" type="text" class="form-control" placeholder="Gender" [(ngModel)]="gender">
+          <input type="submit" name="" value="Save "class="btn btn-primary">
+
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
